@@ -1,13 +1,12 @@
 @charset "utf-8";
 
-
 #putty-enterprise img{
     margin-bottom:2em;	
 }
-/*
+
 .puttytemplate-footer-bot-space{
 	height: 4em;	
-}*/
+}
 
 .ui-icon-puttyenterprise-icon{
     background-image: url(../images/enterprise-icon.png)	;

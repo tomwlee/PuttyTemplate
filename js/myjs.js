@@ -19,7 +19,7 @@
 
 
 /*INIT FOOTER*/
-/*
+
 $(document).bind("pageshow",function(event){
 		
 		
@@ -28,11 +28,11 @@ $(document).bind("pageshow",function(event){
 				$("#" + event.target.id).find("[data-role=navbar]").navbar();
             });
 			
-});*/
+});
 /*END INIT FOOTER*/
 
 /*Log in*/
-/*$("#login").bind("pageinit",function(){
+$("#login").bind("pageinit",function(){
 	
 	$("#login-submit").bind("click",function(){
 		var username = $("#login").find("#login-username").val();
@@ -56,7 +56,7 @@ $(document).bind("pageshow",function(event){
 	});
 	
 });
-*/
+
 
 /*QR SCANNER*/
 

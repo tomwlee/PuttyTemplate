@@ -23,6 +23,6 @@ Warut Lee.
 <gap:splash src="splash/ios/Default-Portrait.png" width="768" height="1024" />
 
 <gap:splash src="splash/bb/splash.png" gap:platform="blackberry" />
-
+<gap:plugin name="BarcodeScanner" />
 </widget>
 
